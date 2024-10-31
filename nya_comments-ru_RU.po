@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nya_comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-07 19:40+0200\n"
+"PO-Revision-Date: 2010-10-07 19:42+0200\n"
+"Last-Translator: Andrew Aronsky <aronsky.ms@gmail.com>\n"
+"Language-Team: Andrew Arosnky <aronsky.ms@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: nya_comments_dofollow.php:129
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:129
+msgid "Nya Comments DoFollow Options:"
+msgstr ""
+
+#: nya_comments_dofollow.php:136
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:136
+msgid "Mode"
+msgstr ""
+
+#: nya_comments_dofollow.php:138
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:138
+msgid "Dofollow All"
+msgstr ""
+
+#: nya_comments_dofollow.php:139
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:139
+msgid "Dofollow Last"
+msgstr ""
+
+#: nya_comments_dofollow.php:140
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:140
+msgid "Ignore admin's comments"
+msgstr ""
+
+#: nya_comments_dofollow.php:141
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:141
+msgid "Dofollow domains from the list"
+msgstr ""
+
+#: nya_comments_dofollow.php:157
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:157
+msgid "List of domains"
+msgstr ""
+
+#: nya_comments_dofollow.php:159
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:159
+msgid "Specify domains which will be dofollow"
+msgstr ""
+
+#: nya_comments_dofollow.php:165
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:165
+msgid "Not Dofollow links:"
+msgstr ""
+
+#: nya_comments_dofollow.php:167
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:167
+msgid "Redirect"
+msgstr ""
+
+#: nya_comments_dofollow.php:168
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:168
+msgid "To leave as the text"
+msgstr ""
+
+#: nya_comments_dofollow.php:169
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:169
+msgid "Redirect through own page"
+msgstr ""
+
+#: nya_comments_dofollow.php:174
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:174
+msgid "Own redirect page adress:"
+msgstr ""
+
+#: nya_comments_dofollow.php:176
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:176
+msgid "Create new page, add in it a line"
+msgstr ""
+
+#: nya_comments_dofollow.php:176
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:176
+msgid "and specify its full address here."
+msgstr ""
+
+#: nya_comments_dofollow.php:183
+#: ../nya_comments_dofollow/nya_comments_dofollow.php:183
+msgid "For more information visit <a href=\"http://muzhiks.com/nya_comments_dofollow_eng\" target=\"_blank\">official page of the plug-in.</a>"
+msgstr ""
+
+#: ../akismet/akismet.php:130
+msgid "Options saved."
+msgstr ""
+
+#: ../akismet/akismet.php:133
+msgid "Akismet Configuration"
+msgstr ""
+
+#: ../akismet/akismet.php:140
+msgid "WordPress.com API Key"
+msgstr ""
+
+#: ../akismet/akismet.php:144
+msgid "<a href=\"http://faq.wordpress.com/2005/10/19/api-key/\">What is this?</a>"
+msgstr ""
+
+#: ../akismet/akismet.php:146
+msgid "Why might my key be invalid?"
+msgstr ""
+
+#: ../akismet/akismet.php:147
+msgid "This can mean one of two things, either you copied the key wrong or that the plugin is unable to reach the Akismet servers, which is most often caused by an issue with your web host around firewalls or similar."
+msgstr ""
+
+#: ../akismet/akismet.php:150
+msgid "Automatically discard spam comments on posts older than a month."
+msgstr ""
+
+#: ../akismet/akismet.php:151
+msgid "Update options &raquo;"
+msgstr ""
+
+#: ../akismet/akismet.php:156
+msgid "Server Connectivity"
+msgstr ""
+
+#: ../akismet/akismet.php:163
+msgid "Unable to reach some Akismet servers."
+msgstr ""
+
+#: ../akismet/akismet.php:168
+msgid "Unable to reach any Akismet servers."
+msgstr ""
+
+#: ../akismet/akismet.php:173
+msgid "All Akismet servers are available."
+msgstr ""
+
+#: ../akismet/akismet.php:174
+msgid "Akismet is working correctly.  All servers are accessible."
+msgstr ""
+
+#: ../akismet/akismet.php:179
+msgid "Network functions are disabled."
+msgstr ""
+
+#: ../akismet/akismet.php:184
+msgid "Unable to find Akismet servers."
+msgstr ""
+
+#: ../akismet/akismet.php:192
+msgid "Akismet server"
+msgstr ""
+
+#: ../akismet/akismet.php:192
+msgid "Network Status"
+msgstr ""
+
+#: ../akismet/akismet.php:210
+msgid "Check network status &raquo;"
+msgstr ""
+
+#: ../akismet/akismet.php:692
+msgid "Caught Spam"
+msgstr ""
+
+#: ../akismet/akismet.php:713
+msgid "Delete all"
+msgstr ""
+
+#: ../akismet/akismet.php:720
+msgid "Search"
+msgstr ""
+
+#: ../akismet/akismet.php:753
+msgid "All"
+msgstr ""
+
+#: ../akismet/akismet.php:826
+msgid "IP:"
+msgstr ""
+
+#: ../akismet/akismet.php:832
+msgid "Not Spam"
+msgstr ""
+
+#: ../akismet/akismet.php:838
+msgid "View Post"
+msgstr ""
+
+#: ../akismet/akismet.php:879
+msgid "Comments you de-spam will be submitted to Akismet as mistakes so it can learn and get better."
+msgstr ""
+
+#: ../akismet/akismet.php:884
+msgid "No results found."
+msgstr ""
+
+#: ../akismet/akismet.php:1090
+msgid "Title:"
+msgstr ""
+
+#: ../akismet/akismet.php:1120
+msgid "spam comments"
+msgstr ""
+
+#: ../akismet/akismet.php:1120
+msgid "blocked by"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:106
+#: ../wp-pagenavi/pagenavi-options.php:170
+msgid "Page Navigation Options"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:107
+msgid "Page Navigation Text"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:110
+msgid "Text For Number Of Pages"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:113
+msgid "The current page number."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:114
+#: ../wp-pagenavi/pagenavi-options.php:135
+#: ../wp-pagenavi/pagenavi-options.php:142
+msgid "The total number of pages."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:118
+msgid "Text For Current Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:121
+#: ../wp-pagenavi/pagenavi-options.php:128
+msgid "The page number."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:125
+msgid "Text For Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:132
+msgid "Text For First Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:139
+msgid "Text For Last Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:146
+msgid "Text For Next Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:152
+msgid "Text For Previous Page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:158
+msgid "Text For Next ..."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:164
+msgid "Text For Previous ..."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:173
+msgid "Use pagenavi.css?"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:179
+msgid "Page Navigation Style"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:182
+msgid "Normal"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:183
+msgid "Drop Down List"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:188
+msgid "Number Of Pages To Show?"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:194
+msgid "Always Show Page Navigation?"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:197
+msgid "Show navigation even if there's only one page"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:201
+msgid "Number Of Larger Page Numbers To Show?"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:205
+msgid "Larger page numbers are in additional to the default page numbers. It is useful for authors who is paginating through many posts."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:207
+msgid "For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, 50"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:209
+msgid "Enter 0 to disable."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:213
+msgid "Show  Larger Page Numbers In Multiples Of:"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:217
+msgid "If mutiple is in 5, it will show: 5, 10, 15, 20, 25"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:219
+msgid "If mutiple is in 10, it will show: 10, 20, 30, 40, 50"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:224
+#: ../wp-postratings/postratings-options.php:396
+#: ../wp-postratings/postratings-templates.php:251
+msgid "Save Changes"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:233
+msgid "Uninstall WP-PageNavi"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:235
+msgid "Deactivating WP-PageNavi plugin does not remove any data that may have been created, such as the page navigation options. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:238
+#: ../wp-postratings/postratings-uninstall.php:113
+msgid "WARNING:"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:239
+#: ../wp-postratings/postratings-uninstall.php:114
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:242
+msgid "The following WordPress Options will be DELETED:"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:247
+#: ../wp-postratings/postratings-uninstall.php:122
+msgid "WordPress Options"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:264
+msgid "UNINSTALL WP-PageNavi"
+msgstr ""
+
+#: ../wp-pagenavi/pagenavi-options.php:264
+msgid ""
+"You Are About To Uninstall WP-PageNavi From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+
+#: ../wp-postratings/postratings-admin-ajax.php:68
+#: ../wp-postratings/postratings-options.php:295
+msgid "Rating Image"
+msgstr ""
+
+#: ../wp-postratings/postratings-admin-ajax.php:69
+#: ../wp-postratings/postratings-options.php:296
+msgid "Rating Text"
+msgstr ""
+
+#: ../wp-postratings/postratings-admin-ajax.php:70
+#: ../wp-postratings/postratings-options.php:297
+msgid "Rating Value"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:239
+msgid "Manage Ratings"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:240
+msgid "Post Ratings Logs"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:241
+msgid "Displaying"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:241
+msgid "To"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:241
+msgid "Of"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:241
+msgid "Post Ratings Log Entries"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:242
+msgid "Sorted By"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:242
+msgid "In"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:242
+msgid "Order"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:246
+#: ../wp-postratings/postratings-manager.php:439
+msgid "ID"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:247
+msgid "Username"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:248
+#: ../wp-postratings/postratings-manager.php:441
+msgid "Rating"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:249
+#: ../wp-postratings/postratings-manager.php:442
+msgid "Post ID"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:250
+#: ../wp-postratings/postratings-manager.php:443
+msgid "Post Title"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:251
+msgid "Date / Time"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:252
+msgid "IP / Host"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:389
+msgid "Filter Options:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:391
+msgid "Post ID:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:436
+msgid "Sort Options:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:440
+msgid "UserName"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:444
+msgid "Date"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:445
+msgid "IP"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:446
+msgid "Host"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:450
+msgid "Ascending"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:451
+msgid "Descending"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:468
+msgid "Go"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:477
+msgid "Post Ratings Logs Stats"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:481
+msgid "Total Users Voted:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:485
+msgid "Total Score:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:489
+msgid "Total Average:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:498
+msgid "Delete Post Ratings Data/Logs"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:504
+msgid "Delete Type: "
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:507
+msgid "Logs Only"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:508
+msgid "Data Only"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:509
+msgid "Logs And Data"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:514
+msgid "Post ID(s):"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:517
+msgid "Seperate each Post ID with a comma."
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:518
+msgid "To delete ratings data/logs from Post ID 2, 3 and 4. Just type in: <b>2,3,4</b>"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:519
+msgid "To delete ratings data/logs for all posts. Just type in: <b>all</b>"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:524
+msgid "Delete Data/Logs"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:524
+msgid ""
+"You Are About To Delete Post Ratings Data/Logs.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:530
+msgid "Note:"
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:532
+msgid "'Logs Only' means the logs generated when a user rates a post."
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:533
+msgid "'Data Only' means the rating data for the post."
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:534
+msgid "'Logs And Data' means both the logs generated and the rating data for the post."
+msgstr ""
+
+#: ../wp-postratings/postratings-manager.php:535
+msgid "If your logging method is by IP and Cookie or by Cookie, users may still be unable to rate if they have voted before as the cookie is still stored in their computer."
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:114
+#: ../wp-postratings/postratings-options.php:117
+#: ../wp-postratings/postratings-options.php:120
+#: ../wp-postratings/postratings-options.php:126
+#: ../wp-postratings/postratings-templates.php:72
+#: ../wp-postratings/postratings-templates.php:75
+#: ../wp-postratings/postratings-templates.php:78
+#: ../wp-postratings/postratings-templates.php:84
+msgid "rating"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:114
+#: ../wp-postratings/postratings-options.php:117
+#: ../wp-postratings/postratings-options.php:120
+#: ../wp-postratings/postratings-options.php:126
+#: ../wp-postratings/postratings-options.php:142
+#: ../wp-postratings/postratings-options.php:145
+#: ../wp-postratings/postratings-options.php:148
+#: ../wp-postratings/postratings-templates.php:72
+#: ../wp-postratings/postratings-templates.php:75
+#: ../wp-postratings/postratings-templates.php:78
+#: ../wp-postratings/postratings-templates.php:84
+#: ../wp-postratings/postratings-templates.php:100
+#: ../wp-postratings/postratings-templates.php:103
+#: ../wp-postratings/postratings-templates.php:106
+msgid ","
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:114
+#: ../wp-postratings/postratings-options.php:117
+#: ../wp-postratings/postratings-options.php:120
+#: ../wp-postratings/postratings-options.php:126
+#: ../wp-postratings/postratings-options.php:129
+#: ../wp-postratings/postratings-options.php:142
+#: ../wp-postratings/postratings-options.php:145
+#: ../wp-postratings/postratings-options.php:148
+#: ../wp-postratings/postratings-options.php:157
+#: ../wp-postratings/postratings-templates.php:72
+#: ../wp-postratings/postratings-templates.php:75
+#: ../wp-postratings/postratings-templates.php:78
+#: ../wp-postratings/postratings-templates.php:84
+#: ../wp-postratings/postratings-templates.php:87
+#: ../wp-postratings/postratings-templates.php:100
+#: ../wp-postratings/postratings-templates.php:103
+#: ../wp-postratings/postratings-templates.php:106
+#: ../wp-postratings/postratings-templates.php:115
+msgid "votes"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:117
+#: ../wp-postratings/postratings-options.php:120
+#: ../wp-postratings/postratings-options.php:145
+#: ../wp-postratings/postratings-templates.php:75
+#: ../wp-postratings/postratings-templates.php:78
+#: ../wp-postratings/postratings-templates.php:103
+msgid "rated"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:120
+#: ../wp-postratings/postratings-options.php:148
+#: ../wp-postratings/postratings-templates.php:78
+#: ../wp-postratings/postratings-templates.php:106
+msgid "You need to be a registered member to rate this post."
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:123
+#: ../wp-postratings/postratings-options.php:151
+#: ../wp-postratings/postratings-templates.php:81
+#: ../wp-postratings/postratings-templates.php:109
+msgid "No Ratings Yet"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:142
+#: ../wp-postratings/postratings-options.php:145
+#: ../wp-postratings/postratings-options.php:148
+#: ../wp-postratings/postratings-templates.php:100
+#: ../wp-postratings/postratings-templates.php:103
+#: ../wp-postratings/postratings-templates.php:106
+msgid "average"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:142
+#: ../wp-postratings/postratings-options.php:145
+#: ../wp-postratings/postratings-options.php:148
+#: ../wp-postratings/postratings-options.php:154
+#: ../wp-postratings/postratings-templates.php:100
+#: ../wp-postratings/postratings-templates.php:103
+#: ../wp-postratings/postratings-templates.php:106
+#: ../wp-postratings/postratings-templates.php:112
+msgid "out of"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:201
+msgid "Post Rating Options"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:210
+msgid "Ratings Settings"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:213
+msgid "Ratings Image:"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:283
+msgid "Max Ratings:"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:287
+msgid "Update 'Individual Rating Text/Value' Display"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:290
+msgid "Individual Rating Text/Value"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:346
+msgid "Ratings AJAX Style"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:349
+msgid "Show Loading Image With Text"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:352
+#: ../wp-postratings/postratings-options.php:361
+msgid "No"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:353
+#: ../wp-postratings/postratings-options.php:362
+#: ../wp-postratings/postratings-uninstall.php:161
+msgid "Yes"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:358
+msgid "Show Fading In And Fading Out Of Ratings"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:367
+msgid "Allow To Rate"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:370
+msgid "Who Is Allowed To Rate?"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:373
+msgid "Guests Only"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:374
+msgid "Registered Users Only"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:375
+msgid "Registered Users And Guests"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:380
+msgid "Logging Method"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:383
+msgid "Ratings Logging Method:"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:386
+msgid "Do Not Log"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:387
+msgid "Logged By Cookie"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:388
+msgid "Logged By IP"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:389
+msgid "Logged By Cookie And IP"
+msgstr ""
+
+#: ../wp-postratings/postratings-options.php:390
+msgid "Logged By Username"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:129
+msgid "Post Rating Templates"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:131
+msgid "Template Variables"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:134
+msgid "Display the ratings images"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:135
+msgid "Display the ratings voting image"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:138
+msgid "Display the average ratings"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:139
+msgid "Display the total number of users rated for the post"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:142
+msgid "Display the max number of ratings"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:143
+msgid "Display the ratings percentage"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:146
+msgid "Display the total score of the ratings"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:147
+msgid "Display the individual rating text. Eg: 1 Star, 2 Stars, etc"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:150
+msgid "Ratings Templates"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:154
+msgid "Ratings Vote Text:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:155
+#: ../wp-postratings/postratings-templates.php:172
+#: ../wp-postratings/postratings-templates.php:187
+#: ../wp-postratings/postratings-templates.php:202
+#: ../wp-postratings/postratings-templates.php:218
+#: ../wp-postratings/postratings-templates.php:237
+msgid "Allowed Variables:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:163
+#: ../wp-postratings/postratings-templates.php:179
+#: ../wp-postratings/postratings-templates.php:194
+#: ../wp-postratings/postratings-templates.php:210
+#: ../wp-postratings/postratings-templates.php:229
+#: ../wp-postratings/postratings-templates.php:244
+msgid "Restore Default Template (Normal Rating)"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:165
+#: ../wp-postratings/postratings-templates.php:180
+#: ../wp-postratings/postratings-templates.php:195
+#: ../wp-postratings/postratings-templates.php:211
+#: ../wp-postratings/postratings-templates.php:230
+#: ../wp-postratings/postratings-templates.php:245
+msgid "Restore Default Template (Up/Down Rating)"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:171
+msgid "Ratings Voted Text:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:186
+msgid "Ratings No Permission Text:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:201
+msgid "Ratings None:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:217
+msgid "Highest Rated:"
+msgstr ""
+
+#: ../wp-postratings/postratings-templates.php:236
+msgid "Most Rated:"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:108
+msgid "Uninstall WP-PostRatings"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:110
+msgid "Deactivating WP-PostRatings plugin does not remove any data that may have been created, such as the ratings data and the ratings's logs. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:117
+msgid "The following WordPress Options/Tables/PostMetas will be DELETED:"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:123
+msgid "WordPress Tables"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:124
+msgid "WordPress PostMetas"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:162
+msgid "UNINSTALL WP-PostRatings"
+msgstr ""
+
+#: ../wp-postratings/postratings-uninstall.php:162
+msgid ""
+"You Are About To Uninstall WP-PostRatings From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:80
+#: ../wp-postratings/wp-postratings-widget.php:133
+msgid "Title"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:83
+#: ../wp-postratings/wp-postratings-widget.php:136
+msgid "Show Ratings For: "
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:89
+#: ../wp-postratings/wp-postratings-widget.php:142
+msgid "Posts &amp; Pages"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:94
+#: ../wp-postratings/wp-postratings-widget.php:147
+msgid "Posts"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:99
+#: ../wp-postratings/wp-postratings-widget.php:152
+msgid "Pages"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:102
+#: ../wp-postratings/wp-postratings-widget.php:155
+msgid "Only"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:105
+#: ../wp-postratings/wp-postratings-widget.php:158
+msgid "Minimum Votes"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:108
+#: ../wp-postratings/wp-postratings-widget.php:161
+msgid "Limit"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:111
+#: ../wp-postratings/wp-postratings-widget.php:164
+msgid "Post Title Length (Characters)"
+msgstr ""
+
+#: ../wp-postratings/wp-postratings-widget.php:113
+#: ../wp-postratings/wp-postratings-widget.php:166
+msgid "(<strong>0</strong> to disable)"
+msgstr ""
+
+#: ../wp-super-cache/wp-cache.php:507
+msgid "Comment moderation is enabled. Your comment may take some time to appear."
+msgstr ""
+
